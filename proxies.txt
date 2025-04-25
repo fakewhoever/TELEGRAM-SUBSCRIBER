@@ -1,0 +1,3 @@
+# Формат прокси:
+# username:password@host:port
+# pesok pidoras
